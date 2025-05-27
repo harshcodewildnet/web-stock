@@ -1,0 +1,11 @@
+Category,Url,Currency,Price,Client Name,Blogger Name,Blogger Email,Blogger Mobile,Spam Score,DR,Traffic,DA,Location,Mode,Added By,Status,Approved
+Fashion,https://www.amberjones.co,INR,286,John Rasmussen,Amber Jones,michellehays@hotmail.com,7212118356,11.0,36,1979,35,UK,Manual Entry,User,Active,1
+Technology,https://www.raymondmitch.net,AED,131,Paul Smith,Raymond Mitchell,rebeccawilliams@howard.com,3061182744,19.6,46,3065,17,Germany,Manual Entry,Admin,Active,1
+Fashion,https://www.johnlong.com,GBP,320,Natalie Wiley,John Long,wtorres@gmail.com,4302465023,9.6,44,1456,25,UK,CSV Upload,User,Inactive,1
+Fashion,https://www.anthonyjames.net,USD,74,Steven Dunn,Anthony James,briangonzales@gmail.com,4000592370,9.3,14,6017,29,UK,CSV Upload,Admin,Inactive,0
+Education,https://www.chloefoster.net,INR,434,Sara Davis,Chloe Foster,kevin20@hotmail.com,6146742988,9.3,26,5215,44,India,CSV Upload,User,Active,0
+Technology,https://www.robertschnei.co,INR,293,Jonathan Martinez,Robert Schneider,torreschristine@chapman.net,7215371208,19.0,45,6631,48,USA,CSV Upload,User,Inactive,1
+Fashion,https://www.kristindicke.org,EUR,384,Ashley Estrada,Kristin Dickerson,nicholasjackson@yahoo.com,2504809878,19.1,43,1275,40,UAE,Manual Entry,Admin,Active,1
+News,https://www.brianjordan.in,EUR,297,Courtney Paul,Brian Jordan,shanepeters@yahoo.com,8303336479,15.6,35,3798,41,India,Manual Entry,User,Active,1
+Travel,https://www.petercain.com,EUR,411,Logan Nelson,Peter Cain,bennettellen@yahoo.com,0765135259,18.7,54,1799,56,USA,CSV Upload,User,Inactive,1
+Technology,https://www.susanyu.org,GBP,459,David Schmidt,Susan Yu,nathanlopez@knight.com,5310224946,10.9,69,4758,36,UAE,CSV Upload,Admin,Inactive,1
