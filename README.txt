@@ -1,28 +1,4 @@
-
-Functionalities Pending:
--delete website
--Activate/deactivate user
--edit/delete user
--Pagination
 -Forms' Validations- add website, edit website
--import website data in csv
--add name field to users
-
-
--Sanitize data in csv
--check for required fields
--columnwise check
--insert into table
-
-
-confirm for method of file upload/csv->db upload
-
-email to-
-    admin
-    tl
-    for qc->execution->approval
-
-
 
 validations in add website form-
     -price, blogger mob, da, dr, spam, traffic -> type numbers only
